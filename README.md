@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Sistemas Operacionais - NFS</h1>
+   <h1>Redes de Computadores - Montagem e utilização de um servidor usando Ubuntu Server 22.04.2</h1>
    
   ![Badge](https://github.com/1mrschneider/project06_so/blob/main/Assets/nfs_image.png)
   
