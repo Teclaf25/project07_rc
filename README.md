@@ -6,7 +6,7 @@
 </div>
 
 ## | Sobre
-   Este guia é destinado à montagem e utilização de um servidor web com Ubuntu Server 22.04.2 LTS (Jammy Jellyfish) e análise dos dados obtidos.
+   Este guia é destinado à montagem e configuração de um servidor web com Ubuntu Server 22.04.2 LTS (Jammy Jellyfish).
 
 ### Disciplina: Redes de Computadores II
 ### Professor: 
